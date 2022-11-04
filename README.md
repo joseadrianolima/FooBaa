@@ -11,7 +11,7 @@ O arquivo foi criado para ser compilado na linguagem C++.
 Para rodar o arquivo, após descarregá-lo ou após fazer o clone do repositório, basta compilar utilizando o g++:
     g++ foobaa.cpp -o foobaa
   
-Após compilar, rodar o arquivo com o seguinte comando no diretório do mesmo:
+Após compilar, rodar o arquivo pelo terminal utilizando o seguinte comando no diretório do mesmo:
   1) Unix/Linux:
     ./foobaa
     
