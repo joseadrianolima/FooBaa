@@ -1,7 +1,7 @@
 ## FooBaa
 
 ## Author
- - José Adriano de Lima (https://github.com/joseadrianolima)
+ - [José Adriano de Lima] (https://github.com/joseadrianolima)
  
 ## Description
 Program to find multiple numbers of 3 and 5 in a range from 1 to 100.
@@ -21,9 +21,9 @@ To run this file, use the following commands in the terminal to clone and compil
 - `g++ foobaa.cpp -o foobaa`
   
 After compiling, using the following command line in directory of file:
-  1) Unix/Linux:
-    - `./foobaa`
+1) Unix/Linux:
+- `./foobaa`
     
-  2) Windows - Click on the executable foobaa.exe or run it through the terminal:
-    - `foobaa.exe`
+2) Windows - Click on the executable foobaa.exe or run it through the terminal:
+- `foobaa.exe`
   
