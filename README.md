@@ -14,11 +14,11 @@ Program to find multiple numbers of 3 and 5 in a range from 1 to 100.
 
 The file was created to be compiled in the `C++` language.
 
-To run this file, after unloading it or after making the repository clone, just compile using g++.
-    Clone repository:
-    - 'git clone https://github.com/joseadrianolima/FooBaa.git`
-    - `cd FooBaa`
-    - `g++ foobaa.cpp -o foobaa`
+To run this file, use the following commands in the terminal to clone and compile.
+
+- 'git clone https://github.com/joseadrianolima/FooBaa.git`
+- `cd FooBaa`
+- `g++ foobaa.cpp -o foobaa`
   
 After compiling, using the following command line in directory of file:
   1) Unix/Linux:
