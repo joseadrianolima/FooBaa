@@ -1,22 +1,20 @@
 # FooBaa
 
-Programa para encontrar números multiplos de 3 e 5 em um range de 1 à 100.
-  1) Caso um número seja multiplo de 3, ele escreverá "Foo" ao invês do número.
-  2) Caso um número seja multipo de 5, ele escreverá "Baa" ao invés do número.
-  3) Se for multiplo de 3 e 5, será impresso "FooBaa" ao invés do número.
-  4) Caso contrário, será impresso o proprio número.
+Program to find multiple numbers of 3 and 5 in a range from 1 to 100.
+  1) If a number is a multiple of 3, it will write "Foo" instead of the number.
+  2) If a number is a multiple of 5, it will write "Baa" instead of the number.
+  3) If it is a multiple of 3 and 5, "FooBaa" will be printed instead of the number.
+  4) Otherwise, the number of the range will be printed.
   
-O arquivo foi criado para ser compilado na linguagem C++.
+The file was created to be compiled in the C++ language.
 
-Para rodar o arquivo, após descarregá-lo ou após fazer o clone do repositório, basta compilar utilizando o g++:
+To run this file, after unloading it or after making the repository clone, just compile using g++:
     g++ foobaa.cpp -o foobaa
   
-Após compilar, rodar o arquivo pelo terminal utilizando o seguinte comando no diretório do mesmo:
+After compiling, run the file in the terminal using the following command line in directory of file:
   1) Unix/Linux:
     ./foobaa
     
-  2) Clicar sobe o executável foobaa.exe ou executar pelo terminal:
+  2) Windows - Click on the executable foobaa.exe or run it through the terminal:
     foobaa.exe
-    
-    
   
