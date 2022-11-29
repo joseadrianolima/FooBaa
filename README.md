@@ -16,7 +16,7 @@ The file was created to be compiled in the `C++` language.
 
 To run this file, use the following commands in the terminal to clone and compile.
 
-- 'git clone https://github.com/joseadrianolima/FooBaa.git`
+- `git clone https://github.com/joseadrianolima/FooBaa.git`
 - `cd FooBaa`
 - `g++ foobaa.cpp -o foobaa`
   
