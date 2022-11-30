@@ -10,7 +10,7 @@ Program to find multiple numbers of 3 and 5 in a range from 1 to 100.
   3) If it is a multiple of 3 and 5, "FooBaa" will be printed instead of the number.
   4) Otherwise, the number of the range will be printed.
   
-## Instructions
+## Instruction
 
 The file was created to be compiled in the `C++` language.
 
