@@ -1,12 +1,12 @@
 #include <iostream>
 #include <string>
 using namespace std;
-
 int main()
 {
     for (int i = 1; i <= 100; i++)
     {
         int modType = 3 * ((i % 3) == 0) + 5 * ((i % 5) == 0);
+        
         switch (modType)
         {
         case 3:
